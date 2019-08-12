@@ -1,0 +1,22 @@
+{
+  "name": "socketio101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wanwanzainaer/socketIO101.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanwanzainaer/socketIO101/issues"
+  },
+  "homepage": "https://github.com/wanwanzainaer/socketIO101#readme",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  }
+}
